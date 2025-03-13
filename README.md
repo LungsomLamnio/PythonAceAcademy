@@ -50,6 +50,10 @@ Sample plots include:
 - **Top 10 Influencers by Engagement**
 - **Top 10 Most Engaging Posts**
 
+## 📜 Project Report
+
+You can view the detailed project report [here](https://drive.google.com/file/d/1_3YZhMrxHqaN--wWNPHb6mzpnOHdwRUd/view?usp=drive_link).
+
 ## 🛠 Setup and Usage
 
 1. Install dependencies:
